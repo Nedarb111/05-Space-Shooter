@@ -1,0 +1,38 @@
+Name: Hayden Donnar 
+Date: 10/20/2019
+Project: P05- Space Shooter
+Peer's repository :https://github.com/Nedarb111/05-Space-Shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+
+Looks like he didn't start it yet or he just forgot to push the commit with the rest of the game. 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ N/A. 
+
+What suggestions would you have for your peer to improve his/her code?
+
+Finish making the game or at least just try and take it step by step and not get overwhelmed by the assignment as a whole.
+
+What could have been clearer or better commented?
+
+ Maybe the readme with what this person is struggling with.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ No code to review.
+
+Does the repository contain an appropriate LICENSE?
+
+ It actually does I think.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ Readme with more details of idea of game/ struggles.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+You got the project setup to be worked on.
